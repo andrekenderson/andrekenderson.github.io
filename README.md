@@ -9,10 +9,10 @@ Sou iniciante em desenvolvimento web e estou aprendendo aos poucos com ajuda da 
 - JavaScript
 
 ## Sobre este perfil
-Aqui eu compartilho meus estudos, testes e pequenos códigos (futuramente) enquanto evoluo na programação.
+Aqui compartilho meus estudos, testes e pequenos códigos enquanto evoluo na programação.
 
-## Site pessoal
-🔗 [andrekenderson](https://andrekenderson.github.io)
+## 🌐 Site Pessoal
+<a href="https://andrekenderson.github.io" target="_blank" rel="noopener noreferrer">👉 andrekenderson.github.io</a>
 
 ---
 
@@ -21,12 +21,10 @@ Aqui eu compartilho meus estudos, testes e pequenos códigos (futuramente) enqua
 ### 🎯 Fase Atual: Fundamentos da Web
 - [x] Versionamento de código simples, primeiras linhas com **Git & GitHub**
 - [ ] Estruturação de páginas com **HTML5**
-- [ ] Estilização e layouts responsivos com **CSS3** 
+- [ ] Estilização e layouts responsivos com **CSS3**
 - [ ] Lógica de programação e dinamismo com **JavaScript**
 
 ### 🛠️ Próximos Passos
-- [ ] Criação de pequenos projetos práticos 
+- [ ] Criação de pequenos projetos práticos
 - [ ] Versionamento de código avançado com **Git & GitHub**
 - [ ] ...
-
-___
