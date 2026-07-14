@@ -1,7 +1,7 @@
 # Oi, eu sou o André Kenderson 👋
 
 ## Sobre mim
-Sou iniciante em desenvolvimento web e estou aprendendo aos poucos com ajuda da IA, livros e organizando minhas notas no Obsidian.
+Sou estudante de desenvolvimento web e estou construindo minha formação por meio de projetos práticos, documentação técnica, livros e organização dos estudos no Obsidian.
 
 ## O que estou estudando
 - HTML
@@ -12,7 +12,7 @@ Sou iniciante em desenvolvimento web e estou aprendendo aos poucos com ajuda da 
 Aqui compartilho meus estudos, testes e pequenos códigos enquanto evoluo na programação.
 
 ## 🌐 Site Pessoal
-<a href="https://andrekenderson.github.io" target="_blank" rel="noopener noreferrer">👉 andrekenderson.github.io</a>
+<a href="https://andrekenderson.github.io">👉 andrekenderson</a>
 
 ---
 
